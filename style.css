@@ -18,14 +18,6 @@ body{
 	color: white;
 	font-size: 35px;	
 }
-#footer{
-	width: 320px;
-	height: 50px;
-	align-items: center;
-	position: relative;
-	left: 95px;
-	color: white;
-}
 #calculator{
 	width: 320px;
 	height: 520px;
